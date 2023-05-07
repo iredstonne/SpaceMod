@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "space:block/mars_stone",
+    "particle": "space:block/mars_stone"
+  }
+}

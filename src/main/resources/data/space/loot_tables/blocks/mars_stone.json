@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "space:moon_cobblestone",
+          "conditions": [
+            { "condition": "minecraft:survives_explosion" }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "space:moon_stone",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "enchantments": [
+                  { "enchantment": "minecraft:silk_touch" }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

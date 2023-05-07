@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      { "model": "space:block/mars_stone", "y": 0, "weight": 750 },
+      { "model": "space:block/mars_stone", "y": 90, "weight": 500 },
+      { "model": "space:block/mars_stone", "y": 180, "weight": 500  }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:default",
+  "config": {
+    "top_material": { "Name": "space:moon_sand" },
+    "under_material": { "Name": "space:moon_stone" },
+    "underwater_material": { "Name": "space:moon_stone" }
+  }
+}

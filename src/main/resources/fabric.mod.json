@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "space",
+  "name": "SpaceMod",
+  "description": "A space expansion to default Minecraft's gameplay",
+  "version": "1.0",
+  "authors": ["iredstonne"],
+  "environment": "*",
+  "entrypoints": {
+    "client": ["dev.iredstonne.mod.client.SpaceModClient"],
+    "main": ["dev.iredstonne.mod.SpaceMod"]
+  },
+  "mixins": ["space.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  },
+  "license": "All-Rights-Reserved"
+}

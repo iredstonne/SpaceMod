@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "space:block/moon_cobblestone",
+    "particle": "space:block/moon_cobblestone"
+  }
+}

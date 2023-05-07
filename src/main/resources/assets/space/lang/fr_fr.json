@@ -1,0 +1,11 @@
+{
+  "itemGroup.space.naturals": "SpaceMod - Naturels",
+
+  "block.space.moon_sand": "Sable de lune",
+  "block.space.moon_stone": "Roche de lune",
+  "block.space.moon_cobblestone": "Pierres de lune",
+
+  "block.space.mars_sand": "Sable de mars",
+  "block.space.mars_stone": "Roche de mars",
+  "block.space.mars_cobblestone": "Pierres de mars"
+}
